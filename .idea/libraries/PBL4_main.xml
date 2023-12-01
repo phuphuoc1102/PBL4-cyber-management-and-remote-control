@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PBL4-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PBL4-main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
